@@ -1,2 +1,2 @@
 # deeplearning
-deep learning一般
+deep learning　一般 (準備中)
